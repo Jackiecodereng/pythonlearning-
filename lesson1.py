@@ -1,0 +1,5 @@
+print("hello , world")
+print(10+12)
+print("10+11")
+print(10,11,22)
+print("tom","juma","mike")
