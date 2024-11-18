@@ -8,6 +8,7 @@ print(result * 3)
 print('--------------------------')
 print(10/3)
 print(10//3)
+print(10*2+3)
 print('--------------------------')
 
 sentence='The quick brown fox jumped over a lazy dog'

@@ -9,7 +9,7 @@ print(student)
 student['weight']=61 # adds a componet
 print(student)
 
-#set {doesnt allow two identical values to be present}, it is unordered  keeps on changing position
+#set {doesn't allow two identical values to be present}, it is unordered  keeps on changing position
 
 
 people = {'jane','kinuthia','mwangi','jane'}

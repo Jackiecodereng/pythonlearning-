@@ -8,7 +8,7 @@ print(scores[2]) #third
 scores.append(61) # alters
 print(scores)
 
-scores.pop(3) #deletes
+scores.pop(3) #deletes no71 in the list
 print(scores)
 
 scores.sort() # in ascending order

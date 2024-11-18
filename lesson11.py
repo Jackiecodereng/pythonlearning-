@@ -43,3 +43,31 @@ print(today_date)
 add(1,2) # prints 1, 1+2
 add(7,8,9)
 add(74,65,77,76,79)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# create a bank system containing data,name,phone,gender ,amt
+# account
+# depsit,withdrawal,check balance,
+# otp
+#matatu  > number ,driver,conductor route
